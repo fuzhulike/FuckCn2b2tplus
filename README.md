@@ -2,6 +2,10 @@
 
 > 新玩家聊天行为管制、反广告刷屏插件/模组 —— 去你妈的cn2b2t广告，准备放飞刷屏狗的马！
 
+## 致谢
+
+本项目基于 [WindsorMacmillan/FuckCn2b2t](https://github.com/WindsorMacmillan/FuckCn2b2t) 开发，在此对原作者 Windsor Macmillan 表示衷心感谢。
+
 ## 简介
 基于 FuckCn2b2t 插件，FuckCn2b2tplus 是一个 **Paper/Folia 插件** 和 **Fabric 模组**，专门解决离线服务器容易遭遇的新玩家广告/违规消息刷屏问题。  
 与市面上的常见关键词审查/AI检查聊天内容的插件不同，这个插件只针对服务器新玩家——他们往往是广告刷屏骚扰、敏感信息爆破的重灾区。  
