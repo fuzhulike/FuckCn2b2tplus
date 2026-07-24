@@ -1,0 +1,30 @@
+{
+    "schemaVersion": 1,
+    "id": "fuckcn2b2tplus-fabric",
+    "version": "0.1.0",
+    "name": "FuckCn2b2tplus",
+    "description": "新玩家聊天行为管制、反广告刷屏模组 - Fabric 服务端版",
+    "authors": [
+        "Windsor_Macmillan"
+    ],
+    "contact": {
+        "homepage": "https://github.com/yourusername/FuckCn2b2tplus-Fabric"
+    },
+    "license": "GPL-3.0",
+    "icon": "assets/fuckcn2b2tplus-fabric/icon.png",
+    "environment": "server",
+    "entrypoints": {
+        "main": [
+            "com.windsor.fuckcn2b2tplusfabric.FuckCn2b2tplusFabric"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.1",
+        "java": ">=21",
+        "fabric-api": "*"
+    },
+    "suggests": {
+        "luckperms": "*"
+    }
+}
